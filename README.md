@@ -22,6 +22,10 @@ IN AWS
 
 ![image](https://user-images.githubusercontent.com/14879580/132951500-4da27931-3aa1-43ea-a5e0-67f7c344c4f1.png)
 
+Inside AWS console, access your bucket just created and create a folder uploads 
+The magic happens !!!!!!!!!!!!! the event is raised after you upload some .png or .jpg and a compressed folder is created with the new image
+
+![image](https://user-images.githubusercontent.com/14879580/132951562-32f51ac2-6bce-4804-a950-cf95d656cf58.png)
 
  
 
