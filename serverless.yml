@@ -1,0 +1,36 @@
+service: nodeless
+
+frameworkVersion: "2"
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  region: sa-east-1
+  lambdaHashingVersion: 20201221
+  memorySize: 256
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - s3:GetObject
+        - s3:PutObject
+      Resource:
+        - "arn:aws:s3:::*"
+
+functions:
+  hello:
+    handler: handler.hello
+    environment:
+      bucket: al3xpisani
+    events:
+      - s3:
+          bucket: al3xpisani
+          event: s3:ObjectCreated:*
+          rules:
+            - prefix: uploads/
+            - suffix: .jpg
+      - s3:
+          bucket: al3xpisani
+          event: s3:ObjectCreated:*
+          rules:
+            - prefix: uploads/
+            - suffix: .png
