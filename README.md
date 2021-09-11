@@ -1,95 +1,27 @@
 # aws_serverless_nodejs
 aws_serverless_nodejs
 
-Serverless unifies the configuration for different platforms like Google, AWS, Azure,etc...  
+![image](https://user-images.githubusercontent.com/14879580/132951448-e3f165dd-f8e9-4696-acb3-e028df531645.png)
 
-https://serverless.com/ 
+![image](https://user-images.githubusercontent.com/14879580/132951452-f71c078e-cd63-45ab-a649-90a9cd6f4a8e.png)
 
- 
+![image](https://user-images.githubusercontent.com/14879580/132951458-a13d2a35-47f0-4318-ae02-12b395f69ed6.png)
 
- 
+![image](https://user-images.githubusercontent.com/14879580/132951464-87814451-e218-48aa-8613-2e0376381335.png)
 
-$ npm install serverless –g 
+![image](https://user-images.githubusercontent.com/14879580/132951468-5252ff57-f776-4294-b3d9-fe9d7069edee.png)
 
- 
+![image](https://user-images.githubusercontent.com/14879580/132951481-bf733eca-6be1-4ee8-9dd2-1d4dad680c5e.png)
 
- 
 
-$ serverless 
+IN AWS
 
-You can see a lot of kind of services to be created 
+![image](https://user-images.githubusercontent.com/14879580/132951485-af4c5094-63b4-4cf9-8c41-d7c3f0355f06.png)
 
-What do you 
-) AWS 
-AWS 
-AWS 
-AWS 
-AWS 
-AWS 
-AWS - 
-AWS - 
-AWS - 
-AWS - 
-AWS - 
-AWS - 
-N/ Documents/ projetos 
-a13xMBMZNØIØØ3Ø 
-serverless 
-(Use arrow keys) 
-to make? 
-Starter 
-- REST API 
-- Scheduled Task 
-- SQS Worker 
-- Express API 
-- Express API with DynamoDB 
-- Starter 
-REST API 
-- Scheduled Task 
-- SQS Worker 
-Flask API 
-Flask API with DynamoDB 
-- Node. 
-- Node. JS 
-- Node. 
-- Node. 
-- Node. JS 
-- Node. JS 
-want 
-js - 
-js 
-js 
-Python 
-Python - 
-Python 
-Python 
-Python - 
-Python - 
-Other 
- 
+![image](https://user-images.githubusercontent.com/14879580/132951496-6771f4e6-e547-4ded-bd0a-9bc420f720c7.png)
 
- 
+![image](https://user-images.githubusercontent.com/14879580/132951500-4da27931-3aa1-43ea-a5e0-67f7c344c4f1.png)
 
-Lets create a new project with type AWS-Node.js and project named nodeless 
-
-$  serverless create --template aws-nodejs --path nodeless 
-
- 
-
-"Documents/ projetos 
---template aws-nodejs 
-a13xMBMZNØIØØ30 
-server less create 
-Server less: Generating boilerplate... 
-Server less: Generating boilerplate in "/home/a13x/Documents/projetos/nodeIess" 
-The Server less Application Framework 
-serverless.com, v2.57.0 
-Server less: Successfully generated boilerplate for template: 'taws-nodejs" 
---path nodeless 
-Serverless: Deprecation warning: Support for Node. js versions below v12 will be dropped with next 
-grade at https://nodejs.org/en/ 
-More Info: https://www.serverless.com/framework/docs/deprecations/#OUTDATED_NODEJS 
- 
 
  
 
