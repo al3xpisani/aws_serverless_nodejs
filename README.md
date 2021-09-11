@@ -1,5 +1,6 @@
 # aws_serverless_nodejs
 aws_serverless_nodejs
+
 Serverless unifies the configuration for different platforms like Google, AWS, Azure,etc...  
 
 https://serverless.com/ 
@@ -88,6 +89,8 @@ Server less: Successfully generated boilerplate for template: 'taws-nodejs"
 Serverless: Deprecation warning: Support for Node. js versions below v12 will be dropped with next 
 grade at https://nodejs.org/en/ 
 More Info: https://www.serverless.com/framework/docs/deprecations/#OUTDATED_NODEJS 
+ 
+
  
 
  
